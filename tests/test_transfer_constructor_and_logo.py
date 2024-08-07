@@ -1,6 +1,6 @@
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
-from Sprint_5.locators import Locators
+from Sprint_5.tests.locators import Locators
 from data import user_data
 
 class TestTransferConstructorAndLogo:
